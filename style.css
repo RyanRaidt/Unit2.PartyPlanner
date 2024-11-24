@@ -1,0 +1,13 @@
+#party-form {
+
+  display: grid;
+  grid-template-columns: .2fr;
+  gap: 10px;
+  align-items: center;
+  padding-left: 40px;
+}
+
+#submit:hover {
+transform:scale(1.2);
+background-color: antiquewhite;
+}
